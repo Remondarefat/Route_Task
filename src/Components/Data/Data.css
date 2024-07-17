@@ -1,0 +1,54 @@
+.search-container {
+    margin-top: 50px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+  }
+  
+  .search-label {
+    font-weight: bold;
+    margin-bottom: 10px;
+    display: block;
+  }
+  
+  .search-input {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .table-container {
+    margin-top: 50px;
+  }
+  
+  .table-custom {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table-custom th,
+  .table-custom td {
+    padding: 15px;
+    border: 1px solid #ddd;
+  }
+  
+  .table-custom th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  
+  .spinner-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .error-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
